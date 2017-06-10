@@ -1221,9 +1221,9 @@ form label {
 }
 
 .btn-primary {
-  background: rgba(255, 81, 38, 0.75);
+  background: rgba(255, 81, 38, 0.44);
   color: #fff;
-  border: 2px #FF5126 !important;
+  border: 2px rgba(255, 81, 38, 0.44) !important;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background: #ff6540 !important;
