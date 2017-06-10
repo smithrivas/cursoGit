@@ -7,7 +7,7 @@
 }
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *
 * ======================================================= */
 body {
@@ -1221,9 +1221,9 @@ form label {
 }
 
 .btn-primary {
-  background: #FF5126;
+  background: #ff0f00;
   color: #fff;
-  border: 2px solid #FF5126 !important;
+  border: 2px solid #ff0f00 !important;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background: #ff6540 !important;
